@@ -32,7 +32,7 @@
     </parent>
 
     <properties>
-        <twitter4j.version>4.0.3</twitter4j.version>
+        <twitter4j.version>4.0.7</twitter4j.version>
         <!-- no unit tests -->
         <tests.ifNoTests>warn</tests.ifNoTests>
         <tests.jvms>1</tests.jvms>
